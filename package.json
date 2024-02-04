@@ -2,7 +2,7 @@
   "name": "band-system",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sean20405.github.io/band-system",
+  "homepage": "https://band-system.github.io",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@fortawesome/fontawesome-free": "^6.5.1",
