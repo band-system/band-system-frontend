@@ -21,7 +21,7 @@ import BandProfilePublic from './BandProfilePublic';
 import BandRequest from './BandRequest';
 
 function App() {
-  const url="http://18.209.225.128:5000/"
+  const url="https://band-system-backend.onrender.com"
   const [cookies, setCookie] = useCookies(["user","role"]);
   // const [role_cookies, setRoleCookie] = useCookies(["role"]);
   function handleLogin(user, role) {
